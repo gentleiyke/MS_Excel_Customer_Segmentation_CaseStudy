@@ -1,6 +1,6 @@
 **MS Excel Customer Segmentation Case Study**
 
-This repository contains a detailed sales analysis of Sterling E-commerce, focusing on customer analytics, sales trends, regional sales distribution, and product performance. The analysis leverages extensive data visualization to uncover patterns and trends in consumer behavior and sales effectiveness. This analytics tool used for this project was Microsoft Excel.
+This repository contains a detailed sales analysis of Sterling E-commerce, focusing on customer analytics, sales trends, regional sales distribution, and product performance. The analysis leverages extensive data visualization to uncover patterns and trends in consumer behaviour and sales effectiveness. The analytics tool used for this project was Microsoft Excel.
 
 **Repository Structure:**
 - CleanedData.png - Snapshot of the preprocessed and cleaned sales data.
@@ -12,7 +12,7 @@ This repository contains a detailed sales analysis of Sterling E-commerce, focus
 **Key Insights:**
 
 - Customer Trends:
-  - Gender balance slightly shifted in 2022 with males representing 51% of the customer base.
+  - Gender balance slightly shifted in 2022, with males representing 51% of the customer base.
   - Notable seasonal purchase peaks in April and December.
   - Gender-based preferences indicate interesting cross-shopping trends where men buy more female fashion items and vice versa.
 - Product Demand & Performance:
