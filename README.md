@@ -1,4 +1,4 @@
-**MS Excel Customer Segmentation Case Study**
+# MS Excel Customer Segmentation Case Study
 
 This repository contains a detailed sales analysis of Sterling E-commerce, focusing on customer analytics, sales trends, regional sales distribution, and product performance. The analysis leverages extensive data visualization to uncover patterns and trends in consumer behaviour and sales effectiveness. The analytics tool used for this project was Microsoft Excel.
 
@@ -8,6 +8,7 @@ This repository contains a detailed sales analysis of Sterling E-commerce, focus
 - presentation_CS.pdf - summary of key performance metrics and recommendations.
 - CaseStudy.pdf - case study file
 - PivotTables.png - Snapshot of PivotTables used for analysis.
+- Documentation_of_Steps.png - documentation of the data cleaning steps
 
 **Key Insights:**
 
