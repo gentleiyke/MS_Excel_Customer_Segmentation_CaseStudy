@@ -6,7 +6,6 @@ This repository contains a detailed sales analysis of Sterling E-commerce, focus
 - CleanedData.png - Snapshot of the preprocessed and cleaned sales data.
 - Dashboard_CA.png - Snapshot of Dashboard illustrating sales trend distribution, regional analytics and product performance across various dimensions.
 - presentation_CS.pdf - summary of key performance metrics and recommendations.
-- dataset_CA.csv - raw dataset
 - CaseStudy.pdf - case study file
 - PivotTables.png - Snapshot of PivotTables used for analysis.
 
